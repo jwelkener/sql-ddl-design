@@ -1,1 +1,2 @@
 # sql-ddl-design
+Practice using SQL as a Database Definition Language to create databases and schemas. Exercise completed by John Welkener for Springboard Software Engineering Career Track, June 2023 cohort.
